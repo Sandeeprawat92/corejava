@@ -1,0 +1,21 @@
+some of the exception are of user
+some of the developer
+errors.
+
+
+Terminate the program abruptly
+
+chekced exeption : user error for eg. file not found. 
+class not found, illegal exception,
+
+
+
+unchecked/runtime exception : class is not found illegal declare something
+airthmatic error /array out of bound
+
+error: beyond control of user / programmer : stackoverflow , jvm error
+
+
+
+
+ 
